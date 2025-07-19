@@ -5,3 +5,4 @@ Natural contribution 2025-07-19 index 4 salt 0.5361707083645934
 Natural contribution 2025-07-19 index 5 salt 0.9193632056237853
 Natural contribution 2025-07-19 index 6 salt 0.5676595137000028
 Natural contribution 2025-07-19 index 7 salt 0.19437418626835745
+Natural contribution 2025-07-19 index 8 salt 0.6108651833263353
