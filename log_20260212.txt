@@ -7,3 +7,4 @@ Natural contribution 2026-02-12 index 6 salt 0.5756824202898542
 Natural contribution 2026-02-12 index 7 salt 0.3246072776557136
 Natural contribution 2026-02-12 index 8 salt 0.26214037709998206
 Natural contribution 2026-02-12 index 9 salt 0.10053475380365051
+Natural contribution 2026-02-12 index 10 salt 0.5331265197471716
